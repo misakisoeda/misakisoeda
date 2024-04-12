@@ -2,15 +2,15 @@
 <p style="font-size: 14px;">I work as a frontend engineer in Japan.</p>
 
 <h2 style="font-size: 15px;">My beloved skills</h2>
-<div align="left">
+<p align="left">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" />
 <img src="https://skillicons.dev/icons?i=vue" width="75" alt="vue" />
 <img src="https://skillicons.dev/icons?i=nuxtjs" width="75" alt="nuxtjs" />
-</div>
+</p>
 
 <h2 style="font-size: 15px;">My favorite tools and technologies</h2>
-<div align="left">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5" />
 <img src="https://skillicons.dev/icons?i=css" width="45" alt="css" />
 <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="45" />
@@ -28,12 +28,9 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="vscode" />
 <img src="https://skillicons.dev/icons?i=apple" width="45" alt="apple" />
 <img src="https://skillicons.dev/icons?i=notion" width="45" alt="notion" />
-</div>
-
+</p>
 
 <p align="left">
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misakisoeda&layout=compact&count_private=true&show_icons=true&theme=onedark" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=misakisoeda&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=misakisoeda&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
