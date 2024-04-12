@@ -2,7 +2,7 @@
 <p style="font-size: 14px;">I work as a frontend engineer in Japan.</p>
 
 <h2 style="font-size: 15px;">My beloved skills</h2>
-<ul style="display: flex; flex-wrap: wrap;gap: 10px; padding: 0; margin: 0; list-style: none;">
+<ul class="skills-list">
     <li><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" /></li>
     <li><img src="https://skillicons.dev/icons?i=vue" width="65" alt="vue" /></li>
     <li><img src="https://skillicons.dev/icons?i=nuxtjs" width="65" alt="nuxtjs" /></li>
@@ -10,7 +10,7 @@
 </ul>
 
 <h2 style="font-size: 15px;">My favorite tools and technologies</h2>
-<ul style="display: flex; flex-wrap: wrap;gap: 10px; padding: 0; margin: 0; list-style: none;">
+<ul class="skills-list">
     <li><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" /></li>
     <li><img src="https://skillicons.dev/icons?i=css" width="48" alt="css" /></li>
     <li><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" /></li>
@@ -29,3 +29,17 @@
     <li><img src="https://skillicons.dev/icons?i=apple" width="48" alt="apple" /></li>
     <li><img src="https://skillicons.dev/icons?i=notion" width="48" alt="notion" /></li>
 </ul>
+
+<style>
+    .skills-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+    .skills-list li img {
+        width: 48px;
+    }
+</style>
