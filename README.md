@@ -1,12 +1,15 @@
 <h1 style="font-size: 26px;">Hi 👋My name is Misaki. </h1>
-<p style="font-size: 14px;">I work as a frontend engineer in Japan.</p>
+<p style="font-size: 14px;">
+Hi there! I'm a frontend engineer based in Japan :jp:<br>
+I'm a big fan of TypeScript — so much that I help organize TSKaigi, a TypeScript conference in Japan!<br>
+I love connecting with fellow devs around the world.<br>
+If you're into TypeScript too, let's be friends! :computer::blue_heart:<br>
+( And yes, I'm always happy to follow back! :) )</p>
 
 <h2 style="font-size: 15px;">My beloved skills</h2>
 <p align="left">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" />
-<img src="https://skillicons.dev/icons?i=vue" width="75" alt="vue" />
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="75" alt="nuxtjs" />
 </p>
 
 <h2 style="font-size: 15px;">My favorite tools and technologies</h2>
@@ -18,6 +21,8 @@
 <img src="https://skillicons.dev/icons?i=jquery" width="45" alt="jQuery" />
 <img src="https://skillicons.dev/icons?i=docker" width="45" alt="docker" />
 <img src="https://skillicons.dev/icons?i=pinia" width="45" alt="pinia" />
+<img src="https://skillicons.dev/icons?i=vue" width="45" alt="vue" />
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="45" alt="nuxtjs" />
 <img src="https://skillicons.dev/icons?i=webpack" width="45" alt="webpack" />
 <img src="https://skillicons.dev/icons?i=wordpress" width="45" alt="wordpress" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" />
