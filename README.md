@@ -24,6 +24,7 @@ If you're into TypeScript too, let's be friends! :computer::blue_heart:<br>
 <img src="https://skillicons.dev/icons?i=vue" width="45" alt="vue" />
 <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" alt="nuxtjs" />
 <img src="https://skillicons.dev/icons?i=webpack" width="45" alt="webpack" />
+<img src="https://skillicons.dev/icons?i=laravel" width="45" alt="laravel" />
 <img src="https://skillicons.dev/icons?i=wordpress" width="45" alt="wordpress" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" />
 <img src="https://skillicons.dev/icons?i=gitlab" width="45" alt="gitlab" />
