@@ -31,16 +31,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misakisoeda&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misakisoeda&theme=github" alt="Profile details" width="94%" />
-</picture>
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misakisoeda&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misakisoeda&theme=github" alt="Top languages by commit" width="46%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misakisoeda&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misakisoeda&theme=github" alt="Top languages by repo" width="46%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misakisoeda&theme=github" alt="Profile details" width="96%" />
 </picture>
 </div>
 
@@ -49,9 +40,9 @@
 ## 🧰 My favorite tools and technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,rails,ruby,tailwind,vue,nuxtjs&perline=8" alt="Main stack" height="48" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,rails,ruby,tailwind,js,sass&perline=8" alt="Main stack" height="48" />
 <br />
-<img src="https://skillicons.dev/icons?i=js,html,css,sass,pinia,laravel,wordpress,jquery&perline=8" alt="Foundations and legacy" height="48" />
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,pinia,html,css,laravel,wordpress,jquery&perline=8" alt="Foundations and earlier work" height="48" />
 <br />
 <img src="https://skillicons.dev/icons?i=pnpm,webpack,docker,aws,vscode,github,gitlab,notion,apple,raspberrypi&perline=10" alt="Tooling and infrastructure" height="48" />
 </div>
