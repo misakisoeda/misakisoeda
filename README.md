@@ -12,7 +12,6 @@
 - 🇯🇵 &nbsp;**Web engineer** based in Japan
 - 🔥 &nbsp;Currently pouring my energy into **Next.js**, **TypeScript** and **Ruby on Rails**
 - 🎤 &nbsp;I've been helping organize **[TSKaigi](https://tskaigi.org/)**, a TypeScript conference in Japan
-- 📦 &nbsp;Converted to the **pnpm** side (sorry, yarn 🙏)
 - 💙 &nbsp;I love connecting with fellow devs around the world — if you're into TypeScript too, let's be friends!
 - 🤝 &nbsp;And yes, I'm always happy to follow back :)
 
@@ -26,12 +25,12 @@
 
 <br />
 
-## 📊 GitHub Stats
+## 🐍 Watch my contributions get eaten
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misakisoeda&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misakisoeda&theme=github" alt="Profile details" width="96%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/github-snake-dark.gif" />
+  <img src="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/github-snake.gif" alt="Contribution snake" width="100%" />
 </picture>
 </div>
 
@@ -40,11 +39,11 @@
 ## 🧰 My favorite tools and technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,rails,ruby,tailwind,js,sass&perline=8" alt="Main stack" height="48" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,rails,ruby,tailwind,pnpm,js,sass&perline=9" alt="Main stack" height="48" />
 <br />
 <img src="https://skillicons.dev/icons?i=vue,nuxtjs,pinia,html,css,laravel,wordpress,jquery&perline=8" alt="Foundations and earlier work" height="48" />
 <br />
-<img src="https://skillicons.dev/icons?i=pnpm,webpack,docker,aws,vscode,github,gitlab,notion,apple,raspberrypi&perline=10" alt="Tooling and infrastructure" height="48" />
+<img src="https://skillicons.dev/icons?i=webpack,docker,aws,vscode,github,gitlab,notion,apple,raspberrypi&perline=9" alt="Tooling and infrastructure" height="48" />
 </div>
 
 <div align="center">
