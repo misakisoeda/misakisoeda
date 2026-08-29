@@ -24,12 +24,17 @@
 
 <br />
 
-## 🐍 Watch my contributions get eaten
+## 📊 GitHub Stats
 
 <div align="center">
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misakisoeda&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misakisoeda&theme=github" alt="Profile details" width="96%" />
+</picture>
+<br />
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/github-snake-dark.gif" />
-  <img src="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/github-snake.gif" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/github-snake.gif" alt="Contribution snake" width="96%" />
 </picture>
 </div>
 
