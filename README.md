@@ -36,6 +36,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/contributions-dark.svg" />
   <img src="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/contributions.svg" alt="Contribution graph" width="96%" />
 </picture>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misakisoeda&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misakisoeda&theme=github" alt="Top languages by commit" width="46%" />
+</picture>
 </div>
 
 <br />
