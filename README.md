@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3178C6,50:00B8D9,100:41B883&height=170&section=header&text=Misaki%20Soeda&fontSize=52&fontColor=ffffff&fontAlignY=44&desc=Web%20Engineer%20from%20Japan%20%7C%20TypeScript%20%C2%B7%20Next.js%20%C2%B7%20Rails&descAlignY=70&descSize=18&animation=none" alt="Misaki Soeda — Web Engineer from Japan | TypeScript · Next.js · Rails" width="100%" />
 <a href="https://qiita.com/misaki_soeda"><img src="https://img.shields.io/badge/Qiita-%40misaki__soeda-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+<a href="https://zenn.dev/msoe"><img src="https://img.shields.io/badge/Zenn-%40msoe-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
 </div>
 
 ---
