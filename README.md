@@ -33,8 +33,8 @@
 </picture>
 <br />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/github-snake-dark.gif" />
-  <img src="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/github-snake.gif" alt="Contribution snake" width="96%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/contributions-dark.svg" />
+  <img src="https://raw.githubusercontent.com/misakisoeda/misakisoeda/output/contributions.svg" alt="Contribution graph" width="96%" />
 </picture>
 </div>
 
