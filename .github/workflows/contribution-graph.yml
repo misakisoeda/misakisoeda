@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution graph
 
 on:
   # every 12 hours
@@ -20,13 +20,12 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate the snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.gif?color_snake=#41B883&color_dots=#ebedf0,#bfd6f6,#8dbdff,#4b91f1,#3178c6&color_background=#ffffff
-            dist/github-snake-dark.gif?color_snake=#41B883&color_dots=#161b22,#1f3b5c,#2a5d99,#3178c6,#00B8D9&color_background=#0d1117
+      - uses: actions/checkout@v7
+
+      - name: Render the calendar
+        run: |
+          mkdir -p dist
+          python3 .github/scripts/contribution_graph.py "${{ github.repository_owner }}" dist
 
       # publishes dist/ to the `output` branch, readable at
       # https://raw.githubusercontent.com/<user>/<repo>/output/<file>
